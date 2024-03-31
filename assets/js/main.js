@@ -169,9 +169,7 @@
       },
     });
   }
-let img = document.getElementById("Séminaire-2");
-img.setAttribute('src','assets/img/portfolio/Seminaire/Séminaire-2.jpg');
-img.setAttribute('alt','test');
+
   /**
    * Porfolio isotope and filter
    */
